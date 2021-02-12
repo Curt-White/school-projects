@@ -1,0 +1,20 @@
+# ignore extensionless files
+*
+!/**/
+!*.*
+
+# ignore all wav files except our sample
+*.wav
+!sample.wav
+
+*.o
+*.elf
+*.bin
+.DS_Store
+*.txt
+scp.sh
+
+!compressed.txt
+!expanded.txt
+
+.vscode
