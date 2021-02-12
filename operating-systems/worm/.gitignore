@@ -1,0 +1,6 @@
+*.dSYM
+tests
+cmake-build-debug
+tests.zip
+worm
+.DS_STORE
